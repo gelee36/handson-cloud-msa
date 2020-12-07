@@ -3,7 +3,7 @@
     <b-jumbotron class="text-center mb-0" :style="{backgroundColor: bannercolor}">
       <b-container>
         <h1 class="jumbotron-heading">
-            One-stop for Hipster Fashion &amp; Style Online
+            Two-stop for Hipster Fashion &amp; Style Online
         </h1>
         <p class="lead text-muted">
             Tired of mainstream fashion ideas, popular trends and
